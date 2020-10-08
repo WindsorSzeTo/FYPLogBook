@@ -31,4 +31,39 @@ Date	Time	Number of Hours	Task Completed	Remarks
 22/09/2020	2200	2	"defi dapp tutorial, research and prep meeting with Ajmal on 24th"		
 24/09/2020	2045	0.5	Narrow down list of ideas for dapps		
 					
-		Updated:	24/09/2020		
+		Updated:	24/09/2020
+24/09/2020				
+27/09/2020	2100	2	Troubleshooting Defi Tutorial	trying to find out why It could not run during demo with prof
+28/09/2020	2200	2	Troubleshooting Defi Tutorial	
+30/09/2020	2100	3	Defi interest yielding Dapp	Researching and watching tutorials online
+1/10/2020	2100	2	React.js tutorial	learning how to use React.js
+2/10/2020	2330	1	React.js tutorial	React.js tutorial
+4/10/2020	2300	2	Started building interest yielding Dapp	
+5/10/2020	2100	3	setting up solidity file for token and making test files	
+6/10/2020	2200	4	building frontend for dapp	"Could not launch react via ""npm run start"""
+8/10/2020	1800	5	"finished frontend, troubleshoot back end"	
+				"Could not get the page to connect to local wallet initally, realised
+				you have to run ""npm install react-scripts --save"" before running
+				""npm run start"""
+		Updated:	09/10/2020		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
