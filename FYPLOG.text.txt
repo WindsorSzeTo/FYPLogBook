@@ -45,8 +45,18 @@ Date	Time	Number of Hours	Task Completed	Remarks
 				"Could not get the page to connect to local wallet initally, realised
 				you have to run ""npm install react-scripts --save"" before running
 				""npm run start"""
-		Updated:	09/10/2020		
+		Updated:	09/10/2020
+13/10/2020	2130	2	Brainstorming for hackathon idea - Good way to speed up learning process		
+15/10/2020	2100	2	Troubleshooting defi dapp (still unsolved) - unable to correct starting amount in bank, and change metamask address
+16/10/2020	2130	1	Researching on goods tracking - suggested by Ajmal
 
+18/10/2020	2130	0.5	Finalising project idea	
+22/10/2020	2100    3	ETHonline- hackathon workshops "Sharding for Scalability & Development Experience" - Illia Polosukhin
+								"Web3 with Web3j" - Peter Robinson, Conor Svensson & Dan Shaw
+22/10/2020	2100	4	Editing UI for aTokenProject and editing vid submission
+23/10/2020	2100	2	Editing UI for aTokenProject - submission due on 23rd
+24/10/2020      0130    3	Pitch to judges
+		Updated:	29/10/2020
 
 
 
