@@ -57,7 +57,14 @@ Date	Time	Number of Hours	Task Completed	Remarks
 23/10/2020	2100	2	Editing UI for aTokenProject - submission due on 23rd
 24/10/2020      0130    3	Pitch to judges
 		Updated:	29/10/2020
-
+08/12/2020	1200	2.5	Introduction of Blockchain and IoV by Dr Sourav
+09/12/2020	2100	3	Digesting research papers relevant to Blockchain and IoV
+10/12/2020	2100	2	Summarising "incidents" and how "incidents are detected that are relevant to IoV
+11/12/2020	2100	2	Videosummarisation and acoustical data collection research papers
+14/12/2020	2100	1	Looked into decentralised insurance, found out that my previous token dapp can be adapted
+15/12/2020	2100	1	Decentralised storage via IPFS (research)
+24/12/2020	2100	2	Decentralised storage via IPFS writing of programme
+28/12/2020	2100	2	Decentralised storage via IPFS writing of programme (debugging)
 
 
 
